@@ -1,0 +1,3 @@
+<TouchableOpacity onPress={() => navigation.navigate('WatchAndEarn')}>
+  <Text style={{ color: 'blue' }}>Go to Watch & Earn</Text>
+</TouchableOpacity>
